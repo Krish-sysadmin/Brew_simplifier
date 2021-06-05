@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "To update run: brew update && brew upgrade. To upgrade a specific program do brew upgrade <name>"
+echo "To update run: brew update && brew upgrade && brew cleanup . To upgrade a specific program do brew upgrade <name>"
 echo -en '\033[1mDo you want to install (I) or uninstall (U): \033[0m' 
 read -r IorU
 

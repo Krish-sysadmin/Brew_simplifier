@@ -6,5 +6,6 @@ Install brew
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+cd Downloads
 curl -O  https://raw.githubusercontent.com/Krish-sysadmin/Brew_simplifier/main/Brew_simplifier.command
 ```

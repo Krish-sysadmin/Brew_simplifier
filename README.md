@@ -1,4 +1,4 @@
-# Brew_simplifier
+# Brew_simplifier (Notes for myself)
 Shell script to simplify brew
 
 
